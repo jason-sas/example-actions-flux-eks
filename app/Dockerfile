@@ -1,6 +1,6 @@
 FROM node
 
-RUN sudo mkdir /web
+RUN mkdir /web
 
 WORKDIR /web
 COPY site .

@@ -32,4 +32,4 @@ spec:
             cpu: 250m
           limits:
             cpu: 500m
-            memory: 512m
+            memory: 1024m
